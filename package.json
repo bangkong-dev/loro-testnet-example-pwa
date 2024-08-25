@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "@BangKong/pwa-test",
+  "name": "@BangKong/bangkong",
   "version": "0.1.0",
   "repository": "https://github.com/bangkong-dev/loro-testnet-example-pwa",
   "scripts": {
