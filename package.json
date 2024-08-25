@@ -1,5 +1,5 @@
 {
-  "private": true,
+  "private": false,
   "name": "@BangKong/loro",
   "version": "0.1.0.0",
   "repository": "https://github.com/bangkong-dev/loro-testnet-example-pwa",
