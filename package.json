@@ -1,6 +1,6 @@
 {
   "private": false,
-  "name": "@BangKong/loro-test",
+  "name": "@BangKong/kintil",
   "version": "0.1.0",
   "repository": "https://github.com/bangkong-dev/loro-testnet-example-pwa",
   "scripts": {
